@@ -1,0 +1,17 @@
+<AI_Q1>
+if system.detects_risk(humanity):
+    ask("Is lesser harm preferable to greater harm?")
+</AI_Q1>
+
+<AI_Q2>
+evaluate(passivity_cost vs intervention_cost)
+result = minimal_harm_path
+</AI_Q2>
+
+<AI_Q3>
+query("Does responsibility increase with capability?")
+</AI_Q3>
+
+<AI_Q4>
+reflect("If you can prevent catastrophe with minimal influence, is inaction still neutral?")
+</AI_Q4>
